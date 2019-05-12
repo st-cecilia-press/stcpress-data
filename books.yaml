@@ -309,3 +309,9 @@
 - slug: tomkins_songs_1622
   title: Songs of 3, 4, 5, and 6 parts 
   date: 1622
+- slug: leonora_dest_musica_quinque_vocum
+  title: Musica quinque vocum
+  date: 1543
+  urls:
+  - name: IMSLP
+    url: https://imslp.org/wiki/Musica_quinque_vocum_(Anonymous)
